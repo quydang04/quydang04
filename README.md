@@ -12,7 +12,5 @@ And here are some of the programming languages I've been working with:
 
 Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, I'd love to hear from you!
 
-📫 How to reach me: ![contact me on my website](https://quydang.name.vn)
-
-Happy coding and have a nice day! 🚀
+📫 Happy coding and have a nice day! 🚀
 
