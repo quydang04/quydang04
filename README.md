@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**quydang04/quydang04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm being a developer!
 
-Here are some ideas to get you started:
+Here's a quick overview of my GitHub activity:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![quydang's GitHub stats](https://github-readme-stats.vercel.app/api?username=quydang04&show_icons=true&theme=dracula)
+
+And here are some of the programming languages I've been working with:
+
+![quydang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quydang04&layout=donut&theme=dracula)
+
+Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, I'd love to hear from you!
+
+📫 How to reach me: ![contact me on my website](https://quydang.name.vn)
+
+Happy coding and have a nice day! 🚀
+
