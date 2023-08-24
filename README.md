@@ -1,16 +1,19 @@
-### Hi there! 👋
+### Hello there! 👋
 
-Welcome to my GitHub profile! I'm being a developer!
+Welcome to my GitHub profile! I'm a passionate developer who loves crafting code.
 
-Here's a quick overview of my GitHub activity:
+Here's a glimpse of my GitHub activity:
 
-![quydang's GitHub stats](https://github-readme-stats.vercel.app/api?username=quydang04&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/quydang04"><img alt="quydang's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=quydang04&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&rank_icon=github&hide_border=true"/></a>
+</div>
 
-And here are some of the programming languages I've been working with:
+And here's a snapshot of the programming languages I've been working with:
 
-![quydang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quydang04&layout=donut&theme=dracula)
+<div align="center">
+  <a href="https://github.com/quydang04"><img alt="quydang's MostLanguages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=quydang04&langs_count=8&layout=compact&theme=dracula&hide_border=true&icon_color=F8D866"/></a>
+</div>
 
-Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, I'd love to hear from you!
+Feel free to explore my repositories and projects. If you come across something intriguing or have any suggestions, I'm all ears!
 
-📫 Happy coding and have a nice day! 🚀
-
+📫 Keep coding and have an amazing day ahead! 🚀
