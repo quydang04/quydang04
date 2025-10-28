@@ -33,31 +33,11 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
   ## 📫 Kết Nối Với Mình
   
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quydang04@duck.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webmaster@quydang.name.vn)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/qvo23)
 </div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-
-
-  <h4>👀 Số lượt truy cập</h4>
-  
-  <img src="https://profile-counter.glitch.me/quydang04/count.svg" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
-  ### 🚀 Cảm ơn vì đã ghé thăm, chúc một ngày tốt lành! 💻
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ### 🚀 Cảm ơn bạn vì đã ghé thăm, chúc bạn một ngày tốt lành! 💻
