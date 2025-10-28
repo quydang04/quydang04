@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 👨‍💻 Về Tôi
+## 👨‍💻 Thông tin 
 
  Luôn tìm tòi và học hỏi những công nghệ mới, sự sáng tạo kết hợp với kỹ thuật là bước để xây dựng những dự án tuyệt vời.
 
