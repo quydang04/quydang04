@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ Chào mừng đến với GitHub của tôi! ✨
+# ✨ Chào mừng đến với GitHub của mình! ✨
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F8D866&center=true&vCenter=true&random=false&width=435&lines=Passionate+Developer;Creative+Problem+Solver;Lifelong+Learner)](https://github.com/quydang04)
 
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Về Tôi
 
-Tôi là một developer với niềm đam mê mãnh liệt trong việc tạo ra những dòng code chất lượng. Luôn tìm tòi và học hỏi những công nghệ mới, tôi tin rằng sự sáng tạo kết hợp với kỹ thuật là chìa khóa để xây dựng những sản phẩm tuyệt vời.
+ Luôn tìm tòi và học hỏi những công nghệ mới, sự sáng tạo kết hợp với kỹ thuật là bước để xây dựng những dự án tuyệt vời.
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -38,7 +38,7 @@ Tôi là một developer với niềm đam mê mãnh liệt trong việc tạo r
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  ## 📫 Kết Nối Với Tôi
+  ## 📫 Kết Nối Với Mình
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quydang04@duck.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/qvo23)
@@ -57,7 +57,7 @@ Tôi là một developer với niềm đam mê mãnh liệt trong việc tạo r
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  ### 🚀 Cảm ơn vì đã ghé thăm! Happy coding! 💻
+  ### 🚀 Cảm ơn vì đã ghé thăm, chúc một ngày tốt lành! 💻
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
